@@ -1,0 +1,9 @@
+provider_id,location_id,provider_name,specialty
+PRV01,LOC01,Dr. Taylor,Family Medicine
+PRV02,LOC01,Dr. Morgan,Internal Medicine
+PRV03,LOC02,Dr. Patel,Family Medicine
+PRV04,LOC02,Dr. Chen,Internal Medicine
+PRV05,LOC03,Dr. Williams,Family Medicine
+PRV06,LOC03,Dr. Rivera,Pediatrics
+PRV07,LOC04,Dr. Johnson,Internal Medicine
+PRV08,LOC04,Dr. Brown,Family Medicine
