@@ -105,6 +105,8 @@ erDiagram
 | Orphan provider/location keys | 0 |
 | **A/R snapshot vs. calculated unpaid balance** | **$174,783.87 vs. $174,783.87: variance $0.00** |
 
+![BigQuery validation results](images/bigquery_validation.png)
+
 Example: the A/R tie-out query from `03_reconciliation.sql`
 
 ```sql
