@@ -175,6 +175,8 @@ healthcare-revenue-cycle-warehouse/
 
 Google BigQuery (GoogleSQL) · Power BI Desktop (Power Query, DAX) · CSV source data
 
+**Live SQL in BigQuery:** [Full pipeline script](https://console.cloud.google.com/bigquery?sq=7681303979:2655a77406694f37bee480400543ecd8) *(requires a Google account to view)*
+
 ---
 
 **Mohd Adnaan Khan**, Healthcare Data Analyst · [LinkedIn](https://www.linkedin.com/in/mohd-adnaan-khan-147b681a9/) · [GitHub](https://github.com/Adnaan-khan)
